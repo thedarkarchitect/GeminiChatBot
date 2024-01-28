@@ -87,6 +87,7 @@ dependencies {
     implementation("androidx.compose.material3:material3")
     implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0")
     implementation("androidx.compose.material:material-icons-extended-android:1.6.0")
+    implementation("io.coil-kt:coil-compose:2.5.0")
 
     //Google AI client SDK for ANDROID
     implementation("com.google.ai.client.generativeai:generativeai:0.1.2")
